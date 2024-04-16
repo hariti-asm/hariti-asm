@@ -16,7 +16,7 @@
 
 - 🚀 I'm currently studying in Youcode .
 - 🌱 I'm learning PHP JavaScript SQL  
-- 💬 Ask me about HTML CSS CSS-TAILWIND
+- 💬 Ask me about Laravel && vue js
 - 📫 How to reach me:  haritiasmae@gmail.com
   
 ### :hammer_and_wrench: Languages and Tools
