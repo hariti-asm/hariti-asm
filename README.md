@@ -15,8 +15,8 @@
 <div>- I'm Hariti asmaa, a full stack developer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">from  Morocco. Here are some things you should know about me: </div>
 
 - 🚀 I'm currently studying in Youcode .
-- 🌱 I'm learning PHP JavaScript SQL  
-- 💬 Ask me about Laravel && vue js
+- 🌱 I'm learning JAVA JavaScript SQL  
+- 💬 Ask me about Spring boot && react js && angular
 - 📫 How to reach me:  haritiasmae@gmail.com
   
 ### :hammer_and_wrench: Languages and Tools
