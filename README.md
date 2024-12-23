@@ -54,31 +54,7 @@ skills:
     - "Git"
     - "Maven"
 
-# 🚀 Featured Projects
-projects:
-  CitronTrack:
-    type: "Farm Management System"
-    stack:
-      - "Spring Boot"
-      - "Spring Cloud"
-      - "PostgreSQL"
-      - "Docker"
-    features:
-      - "Microservices Architecture"
-      - "Event-Driven Design"
-      - "Real-time Analytics"
 
-  ITLens:
-    type: "Enterprise Survey Platform"
-    stack:
-      - "Spring Boot"
-      - "Angular"
-      - "MySQL"
-      - "Docker"
-    features:
-      - "Multi-tenant Architecture"
-      - "RESTful APIs"
-      - "Advanced Analytics"
 
 # 🎯 Current Focus
 current_tasks:
