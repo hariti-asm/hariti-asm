@@ -1,121 +1,106 @@
-# Hariti Asmaa
-version: "23.12.2024"
+# ========================================
+# 🚀 HARITI ASMAA - DEVELOPER PROFILE
+# ========================================
 
-developer:
-  name: Hariti Asmaa
-  title: Full Stack Java Developer
-  location: Morocco 🇲🇦
-  portfolio: https://asmaa-hariti.netlify.app/
-  focus: Enterprise Solutions & Microservices
+# 👩‍💻 About
+echo "Full Stack Java Developer passionate about enterprise solutions"
 
-contacts:
-  email: haritiasmae@gmail.com
-  linkedin: https://www.linkedin.com/in/asmaa-hariti
+# 📍 Location
+export LOCATION="Morocco 🇲🇦"
+export PORTFOLIO="https://asmaa-hariti.netlify.app/"
 
-certifications:
-  ALX_Software_Engineer:
-    title: "ALX Software Engineer"
-    focus: "Problem-solving and collaborative development"
-    highlights:
-      - Practical problem-solving approaches
-      - Collaborative development in diverse teams
-      - Software engineering best practices
-      
-  Docker_Associate:
-    title: "Docker Certified Associate"
-    focus: "Container orchestration and deployment"
-    highlights:
-      - Container orchestration
-      - Docker ecosystem expertise
-      - Team collaboration practices
-      
-  Angular_Certified:
-    title: "Angular Certified Developer"
-    focus: "Modern web application development"
-    highlights:
-      - Dynamic application development
-      - Component management
-      - Performance optimization
-      
-  IBM_Full_Stack:
-    title: "IBM Full Stack Software Developer"
-    focus: "End-to-end application development"
-    highlights:
-      - Modern web technologies
-      - Full stack development
-      - Enterprise solutions
-      
-  Oracle_Associate:
-    title: "Oracle Certification Associate"
-    focus: "Oracle technologies and database management"
-    highlights:
-      - Core Oracle technologies
-      - Database fundamentals
-      - Entry-level professional skills
+# 📫 Contact
+export EMAIL="haritiasmae@gmail.com"
+export LINKEDIN="https://www.linkedin.com/in/asmaa-hariti"
 
-core_expertise:
-  backend:
-    - Java
-    - Spring Boot
-    - Spring Cloud
-    - Spring Data JPA
-    - Spring Security
-    
-  frontend:
-    - Angular
-    - TypeScript
-    - HTML5/CSS3
-    - JavaScript
-    
-  databases:
-    - PostgreSQL
-    - MySQL
-    - Oracle
-    
-  devops:
-    - Docker
-    - Jenkins
-    - Git
-    - Maven
+# 🎓 Certifications
+certifications=(
+    "ALX Software Engineer"          # Problem-solving and collaborative development
+    "Docker Certified Associate"     # Container orchestration expert
+    "Angular Certified"             # Dynamic web applications
+    "IBM Full Stack Developer"      # Modern web technologies
+    "Oracle Certification Associate" # Core Oracle technologies
+)
 
-featured_projects:
-  CitronTrack:
-    type: Farm Management System
-    stack:
-      - Spring Boot
-      - Spring Cloud
-      - PostgreSQL
-      - Docker
-    highlights:
-      - Microservices Architecture
-      - Event-Driven Design
-      - Real-time Analytics
-      
-  ITLens:
-    type: Enterprise Survey Platform
-    stack:
-      - Spring Boot
-      - Angular
-      - MySQL
-      - Docker
-    highlights:
-      - Multi-tenant Architecture
-      - RESTful APIs
-      - Advanced Analytics
+# 💻 Core Skills
+backend=(
+    "Java"
+    "Spring Boot"
+    "Spring Cloud"
+    "Spring Data JPA"
+    "Spring Security"
+)
 
-current_focus:
-  - Building scalable full-stack applications
-  - Implementing cloud-native solutions
-  - Advanced Docker orchestration
-  - Angular performance optimization
+frontend=(
+    "Angular"
+    "TypeScript"
+    "HTML5/CSS3"
+    "JavaScript"
+)
 
-interests:
-  technical:
-    - Cloud Native Development
-    - System Design
-    - Performance Optimization
-  
-  learning:
-    - Kubernetes
-    - Event Sourcing
-    - Microservices Patterns
+databases=(
+    "PostgreSQL"
+    "MySQL"
+    "Oracle"
+)
+
+devops=(
+    "Docker"
+    "Jenkins"
+    "Git"
+    "Maven"
+)
+
+# 🚀 Featured Projects
+project_CitronTrack() {
+    type="Farm Management System"
+    stack=(
+        "Spring Boot"
+        "Spring Cloud"
+        "PostgreSQL"
+        "Docker"
+    )
+    features=(
+        "Microservices Architecture"
+        "Event-Driven Design"
+        "Real-time Analytics"
+    )
+}
+
+project_ITLens() {
+    type="Enterprise Survey Platform"
+    stack=(
+        "Spring Boot"
+        "Angular"
+        "MySQL"
+        "Docker"
+    )
+    features=(
+        "Multi-tenant Architecture"
+        "RESTful APIs"
+        "Advanced Analytics"
+    )
+}
+
+# 🎯 Current Focus
+current_tasks=(
+    "Building scalable full-stack applications"
+    "Implementing cloud-native solutions"
+    "Advanced Docker orchestration"
+    "Angular performance optimization"
+)
+
+# 📚 Learning Path
+learning=(
+    "Kubernetes"
+    "Event Sourcing"
+    "Microservices Patterns"
+)
+
+# 🌟 Status
+echo "Available for exciting enterprise projects"
+echo "Open to collaboration and innovation"
+
+# ========================================
+# End of Profile
+# ========================================
