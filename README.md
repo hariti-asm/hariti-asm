@@ -1,50 +1,121 @@
+# Hariti Asmaa
+version: "23.12.2024"
 
-<a href="https://www.linkedin.com/in/asmaa-hariti">
+developer:
+  name: Hariti Asmaa
+  title: Full Stack Java Developer
+  location: Morocco 🇲🇦
+  portfolio: https://asmaa-hariti.netlify.app/
+  focus: Enterprise Solutions & Microservices
+
+contacts:
+  email: haritiasmae@gmail.com
+  linkedin: https://www.linkedin.com/in/asmaa-hariti
+
+certifications:
+  ALX_Software_Engineer:
+    title: "ALX Software Engineer"
+    focus: "Problem-solving and collaborative development"
+    highlights:
+      - Practical problem-solving approaches
+      - Collaborative development in diverse teams
+      - Software engineering best practices
+      
+  Docker_Associate:
+    title: "Docker Certified Associate"
+    focus: "Container orchestration and deployment"
+    highlights:
+      - Container orchestration
+      - Docker ecosystem expertise
+      - Team collaboration practices
+      
+  Angular_Certified:
+    title: "Angular Certified Developer"
+    focus: "Modern web application development"
+    highlights:
+      - Dynamic application development
+      - Component management
+      - Performance optimization
+      
+  IBM_Full_Stack:
+    title: "IBM Full Stack Software Developer"
+    focus: "End-to-end application development"
+    highlights:
+      - Modern web technologies
+      - Full stack development
+      - Enterprise solutions
+      
+  Oracle_Associate:
+    title: "Oracle Certification Associate"
+    focus: "Oracle technologies and database management"
+    highlights:
+      - Core Oracle technologies
+      - Database fundamentals
+      - Entry-level professional skills
+
+core_expertise:
+  backend:
+    - Java
+    - Spring Boot
+    - Spring Cloud
+    - Spring Data JPA
+    - Spring Security
+    
+  frontend:
+    - Angular
+    - TypeScript
+    - HTML5/CSS3
+    - JavaScript
+    
+  databases:
+    - PostgreSQL
+    - MySQL
+    - Oracle
+    
+  devops:
+    - Docker
+    - Jenkins
+    - Git
+    - Maven
+
+featured_projects:
+  CitronTrack:
+    type: Farm Management System
+    stack:
+      - Spring Boot
+      - Spring Cloud
+      - PostgreSQL
+      - Docker
+    highlights:
+      - Microservices Architecture
+      - Event-Driven Design
+      - Real-time Analytics
+      
+  ITLens:
+    type: Enterprise Survey Platform
+    stack:
+      - Spring Boot
+      - Angular
+      - MySQL
+      - Docker
+    highlights:
+      - Multi-tenant Architecture
+      - RESTful APIs
+      - Advanced Analytics
+
+current_focus:
+  - Building scalable full-stack applications
+  - Implementing cloud-native solutions
+  - Advanced Docker orchestration
+  - Angular performance optimization
+
+interests:
+  technical:
+    - Cloud Native Development
+    - System Design
+    - Performance Optimization
   
-![Twitter cover](https://user-images.githubusercontent.com/17055517/159127013-9b2feb29-72b5-4cb0-95cc-b1dd32a56966.png)
-  
-</a>
-
-### Hi there 👋
-
-
-<h1>
-  Welcome there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
-</h1>
-<div>- I'm Hariti asmaa, a full stack developer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">from  Morocco. Here are some things you should know about me: </div>
-
-- 🚀 I'm currently studying in Youcode .
-- 🌱 I'm learning JAVA JavaScript SQL  
-- 💬 Ask me about Spring boot && react js && angular
-- 📫 How to reach me:  haritiasmae@gmail.com
-  
-### :hammer_and_wrench: Languages and Tools
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,laravel,mysql,tailwind,vscode,git,github,postman,figma)](https://skills.thijs.gg)
-
-
-### :fire: My Stats            
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hariti-asm&theme=dark&background=000000" alt="GitHub Streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariti-asm&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hariti-asm&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
-</p>
-
-
-
-## My GitHub
-- [hariti asmaa ](https://github.com/hariti-asm)
-
-
-## Let's Connect
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/asmaa-hariti-015b3a266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  learning:
+    - Kubernetes
+    - Event Sourcing
+    - Microservices Patterns
