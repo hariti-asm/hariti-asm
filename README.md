@@ -17,6 +17,10 @@ contact:
 
 # 🎓 Certifications
 certifications:
+  - name: "Oracle Certification Professional"
+    focus: "Advenced Java"
+  - name: "Oracle Certification Associate"
+    focus: "Core Oracle technologies"
   - name: "ALX Software Engineer"
     focus: "Problem-solving and collaborative development"
   - name: "Docker Certified Associate"
@@ -25,10 +29,6 @@ certifications:
     focus: "Dynamic web applications"
   - name: "IBM Full Stack Developer"
     focus: "Modern web technologies"
-  - name: "Oracle Certification Associate"
-    focus: "Core Oracle technologies"
-  - name: "Oracle Certification Professional"
-    focus: "Advenced Java"
 
 
 # 💻 Core Skills
