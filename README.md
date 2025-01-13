@@ -27,6 +27,9 @@ certifications:
     focus: "Modern web technologies"
   - name: "Oracle Certification Associate"
     focus: "Core Oracle technologies"
+  - name: "Oracle Certification Professional"
+    focus: "Advenced Java"
+
 
 # 💻 Core Skills
 skills:
